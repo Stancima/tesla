@@ -1,0 +1,9 @@
+   # Members of the tesla upstream project.
+
+   James
+   John
+   Ettienne
+   Ubhiminye
+   Angie
+   Sarah
+
