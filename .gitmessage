@@ -1,0 +1,10 @@
+########50 characters############################
+Scope / Description with fix, feat (SemVer)
+Contributing-to: https://kennedymakhanu1.atlassian.net/browse/<JIRA-TICKET>
+########72 characters##################################################
+creating resources for the tesla upstream project: Austin TX
+# Problem, Task, Reason for Commit
+commit from ticket TS-234: creating 3-tier infrastructure in AWS
+# Solution or List of Changes
+Note
+# Special instructions, testing steps, rake, etci
